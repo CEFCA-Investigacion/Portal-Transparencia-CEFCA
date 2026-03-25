@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 1434" width="1440" height="1434">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#19aeff"/><stop offset="35%" stop-color="#119ff8"/><stop offset="70%" stop-color="#0982ee"/><stop offset="100%" stop-color="#0162e5"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <path d="M 1021 291 L 898 279 L 854 280 L 824 285 L 819 283 L 748 306 L 731 319 L 721 321 L 712 330 L 704 333 L 697 339 L 698 342 L 673 364 L 650 398 L 647 410 L 639 420 L 637 433 L 631 441 L 623 466 L 615 511 L 614 713 L 608 717 L 429 719 L 429 915 L 432 918 L 481 919 L 603 918 L 610 920 L 614 932 L 614 1433 L 830 1433 L 830 922 L 840 919 L 998 919 L 999 895 L 1002 894 L 1005 885 L 1002 873 L 1005 872 L 1017 795 L 1015 789 L 1020 779 L 1020 763 L 1023 756 L 1021 741 L 1025 740 L 1028 718 L 1014 719 L 831 716 L 831 544 L 836 535 L 835 526 L 840 519 L 838 516 L 850 507 L 851 502 L 858 497 L 856 494 L 896 469 L 904 470 L 925 464 L 1038 463 L 1037 299 Z" fill="#fefefe"/>
+</svg>
